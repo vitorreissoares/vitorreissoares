@@ -9,6 +9,6 @@ Você também pode me encontrar:
 <details>
   <summary>▼ Coisas que estou fazendo: Clique para expandir!</summary>
 
-  Talvez eu devesse colocar aqui, mas é tanta coisa que não caberia. 🙈
+  Talvez eu devesse listar, mas não caberia aqui. 🙈 
 
  </details>
