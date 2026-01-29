@@ -1,19 +1,18 @@
-## Hi there, I'm Vitor 👋
+# Hi there, I'm Vitor 👋
 
-<p align="center">
-  <kbd>
-    <a href="https://scholar.google.com/citations?user=0BSfm-wAAAAJ&hl=pt-BR" style="color:#4285F4; text-decoration:none;">
-      Google Scholar
-    </a>
-    &nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/vitorreissoares/" style="color:#0A66C2; text-decoration:none;">
-      LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a href="mailto:vitorreissoares@id.uff.br" style="color:#6B7280; text-decoration:none;">
-      Email
-    </a>
-  </kbd>
-</p>
+Vocês também podem me encontrar aqui:
+
+<a href="https://scholar.google.com/citations?user=0BSfm-wAAAAJ&hl=pt-BR">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vitorreissoares/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:vitorreissoares@id.uff.br">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+
+
 
 
