@@ -7,7 +7,7 @@ Você também pode me encontrar:
 - ✉️ [E-mail](mailto:vitorreissoares@id.uff.br)
 
 <details>
-  <summary>▼ Coisas que estou fazendo: Clique para expandir!</summary>
+  <summary>Coisas que estou fazendo: Clique para expandir!</summary>
 
   Talvez eu devesse listar, mas não caberia aqui. 🙈 
 
